@@ -103,8 +103,8 @@
             datasets = [
                 {
                     id: '1',
-                    name: 'John Smith',
-                    description: 'Family member',
+                    name: 'Barsha Saha',
+                    description: 'Authorized person',
                     images: [
                         { path: 'https://via.placeholder.com/150/1a73e8/ffffff?text=JS1' },
                         { path: 'https://via.placeholder.com/150/1a73e8/ffffff?text=JS2' }
@@ -113,8 +113,8 @@
                 },
                 {
                     id: '2',
-                    name: 'Sarah Johnson',
-                    description: 'Family member',
+                    name: 'Arijit Mitra',
+                    description: 'Authorized person',
                     images: [
                         { path: 'https://via.placeholder.com/150/34a853/ffffff?text=SJ1' }
                     ],
